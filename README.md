@@ -1,2 +1,2 @@
 # cafe-barako
-All things Java.
+Java.
