@@ -8,6 +8,7 @@ public class Fibby {
         System.out.println("Enter a number:");
 
         int n = Integer.parseInt(in.nextLine());
+        in.close();
 
         for (int i=1; i<=n; i++) {
             System.out.println("The fibonacci number at fibonacci(" + i+ ") is " + plainFib(i));
