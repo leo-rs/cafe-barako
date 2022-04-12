@@ -13,7 +13,7 @@ public class Squares extends Canvas{
         frame.add(canvas);
         
         frame.pack();
-        frame.setTitle("Test Drawing");
+        frame.setTitle("Drawing Squares");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
