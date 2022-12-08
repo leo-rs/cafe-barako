@@ -4,6 +4,7 @@
  *   Assignment 6 - Knapsack Problem
  */
 
+
 package knapsackproblem;
 
 import java.io.File;
