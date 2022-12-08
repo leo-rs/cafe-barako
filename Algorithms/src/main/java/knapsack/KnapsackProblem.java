@@ -16,7 +16,6 @@ public class KnapsackProblem {
         
         dynamicProg(price, weight, knapsackMatrix);
         
-        
     }
     
     public static void dynamicProg(int[] price, int[] weight, int[][] ksMatrix) {
