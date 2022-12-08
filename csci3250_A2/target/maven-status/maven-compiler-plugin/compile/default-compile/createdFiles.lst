@@ -1,9 +1,0 @@
-testA/testLinkedList.class
-linkedlist/exception/ListException.class
-library/LibraryManagement.class
-library/Library.class
-linkedlist/LinkedList.class
-linkedlist/Node.class
-linkedlist/exception/InvalidMagazineException.class
-library/Magazine.class
-linkedlist/exception/ListEmptyException.class
