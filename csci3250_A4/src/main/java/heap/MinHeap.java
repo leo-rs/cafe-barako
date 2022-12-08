@@ -3,6 +3,7 @@
  *   Dr. Samadidana
  *   Assignment 4 - Min Heap
  */
+
 package heap;
 
 import java.util.Vector;
