@@ -3,6 +3,7 @@
  *   Dr. Samadidana
  *   Assignment 5 - Hash Table
  */
+
 package hashtable;
 
 import java.util.LinkedList;
