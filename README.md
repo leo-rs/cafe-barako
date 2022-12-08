@@ -1,2 +1,2 @@
 # cafe-barako
-DSA in Java.
+DSA assignments in Java.
